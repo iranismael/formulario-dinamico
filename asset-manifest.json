@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formulario-dinamico/static/css/main.04ddb43f.css",
+    "main.js": "/formulario-dinamico/static/js/main.2b36d015.js",
+    "static/js/787.aeef34e1.chunk.js": "/formulario-dinamico/static/js/787.aeef34e1.chunk.js",
+    "index.html": "/formulario-dinamico/index.html",
+    "main.04ddb43f.css.map": "/formulario-dinamico/static/css/main.04ddb43f.css.map",
+    "main.2b36d015.js.map": "/formulario-dinamico/static/js/main.2b36d015.js.map",
+    "787.aeef34e1.chunk.js.map": "/formulario-dinamico/static/js/787.aeef34e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04ddb43f.css",
+    "static/js/main.2b36d015.js"
+  ]
+}
